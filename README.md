@@ -1,4 +1,4 @@
-# 📊 Algorithmic Complexity Analyzer (Multi-language)
+# 📊 Sistema Analizador BigO (Multi-language)
 
 > Una herramienta de análisis de rendimiento diseñada para evaluar la eficiencia temporal y espacial de algoritmos escritos en C++, Python y Java, facilitando la creación de código escalable y optimizado.
 
