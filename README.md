@@ -25,3 +25,6 @@ El analizador se enfoca en los pilares del análisis de algoritmos:
 1. **Complejidad Temporal:** Tiempo de ejecución en relación al tamaño de la entrada.
 2. **Complejidad Espacial:** Uso de memoria y recursos del sistema durante el procesamiento.
 3. **Puntos Críticos:** Identificación de bucles anidados o recursividad ineficiente.
+
+## 🎓 Contexto Académico
+Proyecto desarrollado para la asignatura de **Análisis y Diseño de Algoritmos**.
